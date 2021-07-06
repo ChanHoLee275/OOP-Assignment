@@ -1,0 +1,6 @@
+name=Gil Dong Hong
+inquiry=distance information
+thisparty=Hanyang Tour
+startcountry=South Korea
+departcountry=North Korea
+email=hello@hanyang.ac.kr

@@ -1,0 +1,19 @@
+Today's date: 2021-05-03
+Inquiry Item: distance information
+Hi. Gil Dong Hong !!
+
+Thank you for visiting our Hanyang Tour today.
+We will reply to the following information about the travel distance of Andorra ~ North Korea requested by you.
+
+Country : Andorra
+latitude = 42.546245
+longitude = 1.601554
+--------------------
+Country : North Korea
+latitude = 40.339852
+longitude = 127.510093
+--------------------
+is
+15857.828363184972
+
+The following information will be sent to your email = hello@hanyang.ac.kr. Thank you for using.

@@ -1,0 +1,10 @@
+Today's date: {date}
+Inquiry Item: {inquiry}
+Hi. {name} !!
+
+Thank you for visiting our {thisparty} today.
+We will reply to the following information about the travel distance of {startcountry} ~ {departcountry} requested by you.
+
+<add info>
+
+The following information will be sent to your email = {email}. Thank you for using.
